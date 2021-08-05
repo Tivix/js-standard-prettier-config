@@ -1,6 +1,6 @@
 {
   "name": "@tivix/prettier-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Tivix's Prettier config",
   "main": "index.json",
   "author": "tivix",
@@ -12,6 +12,6 @@
     "url": "https://github.com/tivix/js-standard-prettier-config.git"
   },
   "dependencies": {
-    "prettier": "^1.19.1"
+    "prettier": "^2.3.2"
   }
 }
